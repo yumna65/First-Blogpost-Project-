@@ -1,5 +1,5 @@
 body {
-  background-color: #546e7a;
+  background-color: #ff3d00;
 }
 
 h1 {
@@ -11,7 +11,7 @@ h1 {
 }
 
 h2 {
-  margin-left: 37%;
+  margin-left: 40%;
   font-size: 200%;
   color: #cfd8dc;
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
@@ -23,8 +23,8 @@ h2 {
   margin: auto;
 }
 .box-1 {
-  background-color: #263238;
-  color: white;
+  background-color: #fff176;
+  color: #ff3d00;
   font-size: 150%;
   border: 3px white solid;
   padding: 20px;
@@ -32,16 +32,16 @@ h2 {
 }
 
 .box-2 {
-  background-color: #263238;
-  color: white;
+  background-color: #fff176;
+  color: #ff3d00;
   font-size: 150%;
   border: 3px solid white;
   padding: 20px;
   margin: 20px 0;
 }
 .box-3 {
-  background-color: #263238;
-  color: white;
+  background-color: #fff176;
+  color: #ff3d00;
   font-size: 150%;
   border: 3px solid white;
   padding: 20px;
