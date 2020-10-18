@@ -11,7 +11,7 @@ h1 {
 }
 
 h2 {
-  margin-left: 33%;
+  margin-left: 37%;
   font-size: 200%;
   color: #cfd8dc;
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
@@ -30,9 +30,7 @@ h2 {
   padding: 20px;
   margin: 20px 0;
 }
-.box-1 <h1 > {
-  font-style: italic;
-}
+
 .box-2 {
   background-color: #263238;
   color: white;
