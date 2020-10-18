@@ -1,39 +1,54 @@
 body {
-  background-color: #b0bec5;
+  background-color: #546e7a;
 }
 
 h1 {
   margin-top: 5%;
-  margin-left: 47%;
+  margin-left: 43%;
   font-size: 300%;
+  color: #cfd8dc;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
 }
 
 h2 {
-  margin-left: 32%;
+  margin-left: 33%;
   font-size: 200%;
+  color: #cfd8dc;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-weight: lighter;
 }
 
 .container {
   width: 50%;
+  margin: auto;
 }
 .box-1 {
   background-color: #263238;
   color: white;
-  margin-left: 20%;
   font-size: 150%;
-  border-bottom: 5px red solid;
-  border-top: 5px red solid;
-  border-right: 5px red solid;
-  border-left: 5px red solid;
+  border: 3px white solid;
+  padding: 20px;
+  margin: 20px 0;
 }
 
 .box-2 {
   background-color: #263238;
   color: white;
-  margin-left: 20%;
   font-size: 150%;
-  border-bottom: 5px red solid;
-  border-top: 5px red solid;
-  border-right: 5px red solid;
-  border-left: 5px red solid;
+  border: 3px solid white;
+  padding: 20px;
+  margin: 20px 0;
+}
+.box-3 {
+  background-color: #263238;
+  color: white;
+  font-size: 150%;
+  border: 3px solid white;
+  padding: 20px;
+  margin: 20px 0;
+}
+.box-1 h1 {
+  font-family: Tahoma;
+  font-weight: 800;
+  font-style: italic;
 }
