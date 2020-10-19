@@ -1,5 +1,5 @@
 body {
-  background-color: #8c9dfd;
+  background-color: #8c9eff;
 }
 
 .header-primary {
@@ -31,7 +31,7 @@ body {
 
 .container {
   width: 60%;
-  margin: auto; 
+  margin: auto;
 }
 .box-1 {
   background-color: #ff3d00;
@@ -44,7 +44,6 @@ body {
   margin: 20px 0;
 }
 
-}
 .box-2 {
   background-color: #ff3d00;
   color: #fffde7;
