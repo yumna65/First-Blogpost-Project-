@@ -61,8 +61,19 @@ body {
   padding: 20px;
   margin: 20px 0;
 }
-.box-1 h1 {
-  font-family: Tahoma;
-  font-weight: 800;
-  font-style: italic;
+
+.image-1 {
+  width: 20rem;
+  margin-left: 30%;
+  margin-top: 2%;
+}
+.image-2 {
+  width: 25rem;
+  margin-left: 22%;
+  margin-top: 2%;
+}
+.image-3 {
+  width: 25rem;
+  margin-left: 27%;
+  margin-top: 2%;
 }
