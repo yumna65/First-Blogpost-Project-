@@ -17,6 +17,7 @@ body {
   font-size: 300%;
   letter-spacing: 0.5rem;
   color: #dd2c00;
+  text-shadow: #333 6px 3px;
   text-transform: uppercase;
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
 }
@@ -26,12 +27,13 @@ body {
   font-size: 150%;
   font-weight: normal;
   color: #dd2c00;
+  text-shadow: #333 6px 3px;
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
   font-weight: lighter;
 }
 
 .container {
-  width: 50%;
+  width: 60%;
   margin: auto;
 }
 .box-1 {
