@@ -1,5 +1,5 @@
 body {
-  background-color: #8c9eff;
+  background-color: #8c9dfd;
 }
 
 .header-primary {
@@ -12,8 +12,6 @@ body {
 }
 
 .header-primary-main {
-  /*margin-top: 5%;
-  margin-left: 30%; */
   font-size: 300%;
   letter-spacing: 0.5rem;
   color: #dd2c00;
@@ -23,7 +21,6 @@ body {
 }
 
 .header-primary-sub {
-  /*margin-left: 37%; */
   font-size: 150%;
   font-weight: normal;
   color: #dd2c00;
@@ -34,29 +31,37 @@ body {
 
 .container {
   width: 60%;
-  margin: auto;
+  margin: auto; 
 }
 .box-1 {
   background-color: #ff3d00;
-  color: white;
+  color: #fffde7;
   font-size: 150%;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-weight: 100;
   border: 3px #1a237e solid;
   padding: 20px;
   margin: 20px 0;
 }
 
+}
 .box-2 {
   background-color: #ff3d00;
-  color: white;
+  color: #fffde7;
   font-size: 150%;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-weight: 100;
   border: 3px solid #1a237e;
   padding: 20px;
   margin: 20px 0;
 }
+
 .box-3 {
   background-color: #ff3d00;
-  color: white;
+  color: #fffde7;
   font-size: 150%;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-weight: 100;
   border: 3px solid #1a237e;
   padding: 20px;
   margin: 20px 0;
@@ -65,15 +70,19 @@ body {
 .image-1 {
   width: 20rem;
   margin-left: 30%;
-  margin-top: 2%;
+  margin-top: 3%;
 }
 .image-2 {
   width: 25rem;
-  margin-left: 22%;
+  margin-left: 20%;
   margin-top: 2%;
 }
 .image-3 {
   width: 25rem;
-  margin-left: 27%;
+  margin-left: 25%;
+  margin-top: 2%;
+}
+.link {
+  margin-left: 31%;
   margin-top: 2%;
 }
